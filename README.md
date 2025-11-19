@@ -1,3 +1,6 @@
+
+![Alt text](https://raw.githubusercontent.com/c0chraniz3r/splurge/refs/heads/main/screenshot.png)
+
 # SPLURGE — Law of Attraction Money Manifesting Game (BASIC Port)
 
 ## Overview
