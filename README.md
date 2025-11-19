@@ -19,7 +19,7 @@ This BASIC version of SPLURGE was **ported entirely by ChatGPT** from the origin
 
 ## Original Bash One-Liner
 
-The SPLURGE concept began as a simple Bash one-liner:
+The SPLURGE concept began as a simple Bash one-liner, as seen in the screenshot:
 
 ```bash
 clear ; for (( ; ; )) ; do read -p '$'$RANDOM': ' ; done
